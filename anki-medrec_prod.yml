@@ -23,7 +23,6 @@ tags:
     description: "Find out more"
     url: "http://anki-medrec.oracleau.cloud"
 schemes:
-- "http"
 - "https"
 security:
   - X-MyAPI-Key: []
